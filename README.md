@@ -92,7 +92,6 @@ To get the latest features, simply do a pull, install any new dependencies, and 
 git pull
 yarn install
 yarn build
-yarn update-db
 ```
 
 To update the Docker image, simply pull the new images and rebuild:
